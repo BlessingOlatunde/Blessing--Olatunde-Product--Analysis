@@ -2,6 +2,6 @@
 ## About the projects
 ## Data source
 ## Tech Stack
-## data analysis
-## data visualisation
-## insight and recommendations
+## Data analysis
+## Data visualisation
+## Insight and recommendations
